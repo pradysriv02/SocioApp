@@ -1,0 +1,2 @@
+# SocioApp
+FULL Stack (MERN)
